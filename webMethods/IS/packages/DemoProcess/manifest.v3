@@ -10,11 +10,4 @@
   <null name="requires"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
-  <value name="name">DemoProcess</value>
-  <value name="build"></value>
-  <value name="description"></value>
-  <value name="time">2020-07-24 12:15:56 SGT</value>
-  <value name="jvm_version">1.8.0_242</value>
-  <value name="publisher">SAG-B9G45Y2.eur.ad.sag</value>
-  <value name="patch_nums"></value>
 </Values>
